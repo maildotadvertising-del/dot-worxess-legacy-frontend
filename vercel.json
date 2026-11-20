@@ -1,17 +1,143 @@
 {
+  "redirects": [
+    {
+      "source": "/team.html",
+      "destination": "https://dot-worxess.vercel.app/staff",
+      "permanent": false
+    },
+    {
+      "source": "/teamlogin",
+      "destination": "https://dot-worxess.vercel.app/staff",
+      "permanent": false
+    },
+    {
+      "source": "/dashboard.html",
+      "destination": "https://dot-worxess.vercel.app/team",
+      "permanent": false
+    },
+    {
+      "source": "/admin",
+      "destination": "https://dot-worxess.vercel.app/team",
+      "permanent": false
+    },
+    {
+      "source": "/attendance",
+      "destination": "https://dot-worxess.vercel.app/team",
+      "permanent": false
+    },
+    {
+      "source": "/payroll",
+      "destination": "https://dot-worxess.vercel.app/team",
+      "permanent": false
+    },
+    {
+      "source": "/team",
+      "destination": "https://dot-worxess.vercel.app/team",
+      "permanent": false
+    },
+    {
+      "source": "/approvals",
+      "destination": "https://dot-worxess.vercel.app/team",
+      "permanent": false
+    },
+    {
+      "source": "/announcements",
+      "destination": "https://dot-worxess.vercel.app/team",
+      "permanent": false
+    },
+    {
+      "source": "/tasks",
+      "destination": "https://dot-worxess.vercel.app/team",
+      "permanent": false
+    },
+    {
+      "source": "/chat",
+      "destination": "https://dot-worxess.vercel.app/team",
+      "permanent": false
+    },
+    {
+      "source": "/gps",
+      "destination": "https://dot-worxess.vercel.app/team",
+      "permanent": false
+    },
+    {
+      "source": "/payroll-settings",
+      "destination": "https://dot-worxess.vercel.app/team",
+      "permanent": false
+    },
+    {
+      "source": "/biometric",
+      "destination": "https://dot-worxess.vercel.app/team",
+      "permanent": false
+    },
+    {
+      "source": "/overview",
+      "destination": "https://dot-worxess.vercel.app/team",
+      "permanent": false
+    },
+    {
+      "source": "/",
+      "destination": "https://dot-worxess.vercel.app/",
+      "permanent": false
+    },
+    {
+      "source": "/index.html",
+      "destination": "https://dot-worxess.vercel.app/",
+      "permanent": false
+    }
+  ],
   "rewrites": [
-    { "source": "/teamlogin",        "destination": "/team.html" },
-    { "source": "/admin",            "destination": "/dashboard.html" },
-    { "source": "/attendance",       "destination": "/dashboard.html" },
-    { "source": "/payroll",          "destination": "/dashboard.html" },
-    { "source": "/team",             "destination": "/dashboard.html" },
-    { "source": "/approvals",        "destination": "/dashboard.html" },
-    { "source": "/announcements",    "destination": "/dashboard.html" },
-    { "source": "/tasks",            "destination": "/dashboard.html" },
-    { "source": "/chat",             "destination": "/dashboard.html" },
-    { "source": "/gps",              "destination": "/dashboard.html" },
-    { "source": "/payroll-settings", "destination": "/dashboard.html" },
-    { "source": "/biometric",        "destination": "/dashboard.html" },
-    { "source": "/overview",         "destination": "/dashboard.html" }
+    {
+      "source": "/teamlogin",
+      "destination": "/team.html"
+    },
+    {
+      "source": "/admin",
+      "destination": "/dashboard.html"
+    },
+    {
+      "source": "/attendance",
+      "destination": "/dashboard.html"
+    },
+    {
+      "source": "/payroll",
+      "destination": "/dashboard.html"
+    },
+    {
+      "source": "/team",
+      "destination": "/dashboard.html"
+    },
+    {
+      "source": "/approvals",
+      "destination": "/dashboard.html"
+    },
+    {
+      "source": "/announcements",
+      "destination": "/dashboard.html"
+    },
+    {
+      "source": "/tasks",
+      "destination": "/dashboard.html"
+    },
+    {
+      "source": "/chat",
+      "destination": "/dashboard.html"
+    },
+    {
+      "source": "/gps",
+      "destination": "/dashboard.html"
+    },
+    {
+      "source": "/payroll-settings",
+      "destination": "/dashboard.html"
+    },
+    {
+      "source": "/biometric",
+      "destination": "/dashboard.html"
+    },
+    {
+      "source": "/overview",
+      "destination": "/dashboard.html"
+    }
   ]
 }
